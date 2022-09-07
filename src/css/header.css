@@ -1,0 +1,24 @@
+.logo{
+    width: 120px;
+}
+
+.container{
+    width: 100vw;
+}
+nav{
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 11px;
+    color: black;
+}
+
+.github-logo{
+    width: 12px;
+    margin-right: 5px;
+}
