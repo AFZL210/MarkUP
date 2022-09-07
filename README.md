@@ -8,7 +8,7 @@ A simple web based markdown reader and editor
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/AFZL210/MarkUp/main/media/screenOne.PNG)
+![App Screenshot](https://raw.githubusercontent.com/AFZL210/MarkUp/main/media/screenOne.png)
 
 User can also download the markdown file
 ![App Screenshot](https://raw.githubusercontent.com/AFZL210/MarkUp/main/media/downloadScreen.PNG)
