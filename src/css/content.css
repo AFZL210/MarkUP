@@ -11,7 +11,7 @@
 }
 
 .preview-area{
-    width: 35vw;
+    width: 30vw;
     height: 70Vh;
     background-color: rgb(236, 189, 189);
     margin-left: 20px;
@@ -20,7 +20,7 @@
 }
 
 .markdown-area{
-    width: 35vw;
+    width: 30vw;
     height: 70vh;
     background-color: black;
     color: wheat;
