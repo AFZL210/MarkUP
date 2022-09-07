@@ -60,21 +60,3 @@
         margin-top: 20px;
     }
 }
-
-@media only screen and (min-width: 800px) {
-    .container{
-        flex-wrap: wrap;
-    }
-
-    .markdown-area{
-        width: 40vw;
-        height: 850px;
-    }
-
-    .preview-area{
-        width: 40vw;
-        height: 850px;
-        margin-left: 10px;
-        margin-top: 0;
-    }
-}
