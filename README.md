@@ -1,6 +1,7 @@
 # MarkUp
 
 A simple web based markdown reader and editor
+[Checkout MarkUp](https://afzl210.github.io/MarkUp/)
 
 
 ![Logo](https://raw.githubusercontent.com/AFZL210/MarkUp/main/media/logotwo.jpg)
